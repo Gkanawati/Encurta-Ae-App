@@ -29,7 +29,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#132752"
-      }
+      },
+      "package": "com.gkanawati.EncurtaAeApp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
