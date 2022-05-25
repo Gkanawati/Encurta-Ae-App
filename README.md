@@ -22,10 +22,20 @@ Todos os seus links são armazenados no localStorage do próprio dispositivo, de
 - `CSS`
 
 ## :computer: Telas
-<img src='https://user-images.githubusercontent.com/87530595/170299495-00f4af09-807e-4ee0-ae09-c46df8287061.jpeg' />
 
-![PrintEncurtaAe1](https://user-images.githubusercontent.com/87530595/170299495-00f4af09-807e-4ee0-ae09-c46df8287061.jpeg)
+<div align='center' style="justify-content: center; align-items: center;">
 
-![PrintEncurtaAe](https://user-images.githubusercontent.com/87530595/158999691-6d96cec5-6e73-429c-9448-3d1d78142613.png)
+<img src='https://user-images.githubusercontent.com/87530595/170299495-00f4af09-807e-4ee0-ae09-c46df8287061.jpeg' style="max-height:500px;" />
 
-![printEncurtaAe2](https://user-images.githubusercontent.com/87530595/158999697-9f8c6d9b-9be5-4ff3-9881-7999ae04b9ce.png)
+<img src='https://user-images.githubusercontent.com/87530595/170299523-e517d531-f3df-45af-be89-6eec04aa09ba.jpeg' style="max-height:500px;" />
+
+<img src='https://user-images.githubusercontent.com/87530595/170299535-d778efe1-730d-449b-8ca0-187603b0356b.jpeg' style="max-height:500px;" />
+
+<br>
+<br>
+
+<img src='https://user-images.githubusercontent.com/87530595/170299532-246d88c7-224a-4930-9603-b6ebe2a5db86.jpeg' style="max-height:500px;" />
+
+<img src='https://user-images.githubusercontent.com/87530595/170299530-72966de8-f29b-46ba-bb30-366b084df9cb.jpeg' style="max-height:500px;" />
+
+</div>
