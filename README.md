@@ -25,17 +25,18 @@ Todos os seus links são armazenados no localStorage do próprio dispositivo, de
 
 <div align='center' style="justify-content: center; align-items: center;">
 
-<img src='https://user-images.githubusercontent.com/87530595/170299495-00f4af09-807e-4ee0-ae09-c46df8287061.jpeg' style="max-height:340px;" />
+<img src='https://user-images.githubusercontent.com/87530595/170299495-00f4af09-807e-4ee0-ae09-c46df8287061.jpeg' height='350' />
 
-<img src='https://user-images.githubusercontent.com/87530595/170299523-e517d531-f3df-45af-be89-6eec04aa09ba.jpeg' style="max-height:340px;" />
+<img src='https://user-images.githubusercontent.com/87530595/170299523-e517d531-f3df-45af-be89-6eec04aa09ba.jpeg' height='350' />
 
-<img src='https://user-images.githubusercontent.com/87530595/170299535-d778efe1-730d-449b-8ca0-187603b0356b.jpeg' style="max-height:340px;" />
+<img src='https://user-images.githubusercontent.com/87530595/170299535-d778efe1-730d-449b-8ca0-187603b0356b.jpeg' height='350' />
 
 <br>
 <br>
 
-<img src='https://user-images.githubusercontent.com/87530595/170299532-246d88c7-224a-4930-9603-b6ebe2a5db86.jpeg' style="max-height:340px;" />
+<img src='https://user-images.githubusercontent.com/87530595/170299532-246d88c7-224a-4930-9603-b6ebe2a5db86.jpeg' height='350' />
 
-<img src='https://user-images.githubusercontent.com/87530595/170299530-72966de8-f29b-46ba-bb30-366b084df9cb.jpeg' style="max-height:340px;" />
+<img src='https://user-images.githubusercontent.com/87530595/170299530-72966de8-f29b-46ba-bb30-366b084df9cb.jpeg' height='350' />
 
 </div>
+
