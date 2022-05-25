@@ -23,7 +23,7 @@ Todos os seus links são armazenados no localStorage do próprio dispositivo, de
 
 ## :computer: Telas
 
-![PrintEncurtaAe1](https://user-images.githubusercontent.com/87530595/158999694-fde4ff71-66ae-478f-b183-f26dd55c3e90.png)
+![PrintEncurtaAe1]([https://user-images.githubusercontent.com/87530595/158999694-fde4ff71-66ae-478f-b183-f26dd55c3e90.png](https://user-images.githubusercontent.com/87530595/170299495-00f4af09-807e-4ee0-ae09-c46df8287061.jpeg))
 
 ![PrintEncurtaAe](https://user-images.githubusercontent.com/87530595/158999691-6d96cec5-6e73-429c-9448-3d1d78142613.png)
 
