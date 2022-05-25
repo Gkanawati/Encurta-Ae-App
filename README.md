@@ -22,6 +22,7 @@ Todos os seus links são armazenados no localStorage do próprio dispositivo, de
 - `CSS`
 
 ## :computer: Telas
+<img src='https://user-images.githubusercontent.com/87530595/170299495-00f4af09-807e-4ee0-ae09-c46df8287061.jpeg' />
 
 ![PrintEncurtaAe1](https://user-images.githubusercontent.com/87530595/170299495-00f4af09-807e-4ee0-ae09-c46df8287061.jpeg)
 
